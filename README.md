@@ -20,6 +20,6 @@ It is designed to quickly gather domain information with **colorful terminal out
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/<your-username>/agera.git
+git clone https://github.com/Mike-rk/agera.git
 cd agera
 
