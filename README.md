@@ -22,6 +22,8 @@ Clone the repository and install dependencies:
 ```bash
 git clone https://github.com/Mike-rk/agera.git
 cd agera
+python3 -m venv venv
+source venv/bin/activate
 
 # Run
 agera example.com
